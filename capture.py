@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Simple Python script to capture images from a webcam.
-
+V 1.0
 Uses the OpenCV libray via its cv2 interface, see:
 http://opencv.willowgarage.com/wiki/
 
